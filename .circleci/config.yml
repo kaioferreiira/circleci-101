@@ -20,19 +20,15 @@ jobs:
       - checkout
       - run:
           name: Create jar
-          command: cd crud-empresa && ./gradlew bootJar
+          command: cd central-erros && ./gradlew bootJar
 workflows:
   version: 2
   workflow:
     jobs:
       - build
-      - test:
-          requires:
-            - build
       - deploy:
           requires:
             - build
-            - test
           filters:
             branches:
               only: master
