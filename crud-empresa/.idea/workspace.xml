@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16c38cf9-f150-4654-abdb-7d4cc9b7d3e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/empresa/impl/api/V5/FuncionarioRestV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/empresa/impl/api/V5/FuncionarioRestV5.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="crud-empresa" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adicionaFuncionario</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1Ok3yA1LLqD9smzKENI7eMzaKrz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/empresa/impl/api/v2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/empresa/impl/api/v2" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.empresa.impl.config" />
+      <recent name="br.com.empresa.exception.exceptions" />
+      <recent name="br.com.empresa.exception" />
+      <recent name="br.com.empresa.repository" />
+      <recent name="br.com.empresa.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CrudEmpresaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crud-empresa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.empresa.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.empresa.impl.CrudEmpresaApplication" />
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev -Xms128m -Xmx512m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CrudEmpresaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c38cf9-f150-4654-abdb-7d4cc9b7d3e4" name="Default Changelist" comment="" />
+      <created>1563995777693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563995777693</updated>
+      <workItem from="1563995784338" duration="1591000" />
+      <workItem from="1564010268534" duration="3874000" />
+      <workItem from="1564063070413" duration="1416000" />
+      <workItem from="1564508020121" duration="1286000" />
+      <workItem from="1564509349592" duration="2238000" />
+      <workItem from="1564583954532" duration="291000" />
+      <workItem from="1564584449203" duration="3829000" />
+      <workItem from="1565005517090" duration="131000" />
+      <workItem from="1565203737584" duration="2232000" />
+      <workItem from="1568136050995" duration="864000" />
+      <workItem from="1568139370351" duration="19662000" />
+      <workItem from="1568728206686" duration="10757000" />
+      <workItem from="1568804402083" duration="604000" />
+      <workItem from="1569267270197" duration="1176000" />
+      <workItem from="1569324665581" duration="2019000" />
+      <workItem from="1569410578140" duration="1401000" />
+      <workItem from="1569440825619" duration="94000" />
+      <workItem from="1569524651586" duration="728000" />
+      <workItem from="1570825463215" duration="649000" />
+      <workItem from="1570827872510" duration="861000" />
+      <workItem from="1571054929231" duration="603000" />
+      <workItem from="1571333073555" duration="1139000" />
+      <workItem from="1571429907667" duration="988000" />
+      <workItem from="1571660715314" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="Crud-empresa base inicial do projeto">
+      <created>1564509180071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564509180071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Crud-empresa base inicial do projeto">
+      <created>1568136100412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568136100412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajuste projeto packages">
+      <created>1568140323252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568140323252</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criação config swagger">
+      <created>1568208115942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208115942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Criação config swagger">
+      <created>1568235267027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568235267027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="alteração rest">
+      <created>1568746804303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568746804303</updated>
+    </task>
+    <task id="LOCAL-00007" summary="alteração rest">
+      <created>1569415467826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569415467826</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Crud-empresa base inicial do projeto" />
+    <MESSAGE value="Ajuste projeto packages" />
+    <MESSAGE value="Criação config swagger" />
+    <MESSAGE value="alteração rest" />
+    <option name="LAST_COMMIT_MESSAGE" value="alteração rest" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/empresa/impl/api/v1/FuncionarioRest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
